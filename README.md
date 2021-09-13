@@ -45,7 +45,7 @@ To build gpufetch, just clone the repo and run `./build.sh`:
 git clone https://github.com/Dr-Noob/gpufetch
 cd gpufetch
 ./build.sh
-./gpufetch
+./gpufetch.1
 ```
 
 - NOTE 1: It is recomended to install the `pciutils` development package, which is needed by gpufetch. If it is not installed, it will be downloaded and built automatically just to compile gpufetch.
